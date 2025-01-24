@@ -21,3 +21,4 @@ const extname = path.extname(filePath);
 const basename = path.basename(filePath);
 const dirname = path.dirname(filePath);
 console.log({parseData, resolvedPath, extname, basename, dirname});
+
