@@ -8,3 +8,4 @@ const {add, subs, div} = require("./math");
 console.log(add(2,5));
 console.log(subs(5,2));
 console.log(div(6,2));
+
