@@ -32,3 +32,4 @@ console.log('CPU Info:', os.cpus());
 
 // Display details of all network interfaces (e.g., IP addresses and MAC addresses)
 console.log('Network Interfaces:', os.networkInterfaces());
+
