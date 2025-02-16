@@ -1,0 +1,14 @@
+{
+  "name": "09.-node",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
